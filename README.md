@@ -1,19 +1,13 @@
-# Title: The project name.
+# Statistics & Probability Theorem
 
 ## Description: 
 
-A brief overview of the project, its purpose, and what it does.
+This project was done as part of the final assignment for a course. This was purely included in this portfolio to showcase my familiarity with RStudio and core statistics theories. 
 
 ## Techniques & Tools
 
-## Contributions:
-
-This repository contains results of a group project. There are three main parts to this project:
-- Data Cleaning: Individual work.
-- Data Visualisation: Individual work.
-- Final Product Notebook: This was a combination of individual work and group work, which was mainly authored by Dean Li, and contributed by Yiping Su and Harshil Sindhi.
+This project was done on RStudio, witht eh report being done on Microsoft Word. This assignment covers core statistics theories, including Monte Carlo simulations and the Central Limit Theorem.
 
 ## Acknowledgments: 
 
-The group work was initially done by Andy Chen, Dean Li, Harshil Sindhi, Samuel Tsui, and Kylie Haryono as part of the DATA3406 (Data with Human-in-the-Loop Analysis) course by University of Sydney. This repository was then modified by Kylie Haryono.
-
+This was initially done as an individual assignment for the STAT2011 (Probability and Estimation Theory) course by University of Sydney. This was then modified by Kylie Haryono.
